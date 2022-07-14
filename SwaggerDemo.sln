@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerDemo.Hard", "src\SwaggerDemo.Hard\SwaggerDemo.Hard.csproj", "{D1C810FC-1263-4FF3-A99A-38E7CAFA51FC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerDemo.Easy", "src\SwaggerDemo.Easy\SwaggerDemo.Easy.csproj", "{F3D0963E-A4FB-4EBF-8DF0-3A2F96625E3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerDemo.Api", "src\SwaggerDemo.Hard\SwaggerDemo.Api.csproj", "{D1C810FC-1263-4FF3-A99A-38E7CAFA51FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerDemo.Models", "src\SwaggerDemo.Models\SwaggerDemo.Models.csproj", "{B70AB866-D1F3-4464-A32C-4172B355E9F1}"
 EndProject
@@ -19,10 +17,6 @@ Global
 		{D1C810FC-1263-4FF3-A99A-38E7CAFA51FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1C810FC-1263-4FF3-A99A-38E7CAFA51FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1C810FC-1263-4FF3-A99A-38E7CAFA51FC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F3D0963E-A4FB-4EBF-8DF0-3A2F96625E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3D0963E-A4FB-4EBF-8DF0-3A2F96625E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3D0963E-A4FB-4EBF-8DF0-3A2F96625E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3D0963E-A4FB-4EBF-8DF0-3A2F96625E3B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B70AB866-D1F3-4464-A32C-4172B355E9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B70AB866-D1F3-4464-A32C-4172B355E9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B70AB866-D1F3-4464-A32C-4172B355E9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
